@@ -55,3 +55,9 @@ To replicate the results of this project:
 1. Clone the repository containing the Jupyter Notebook.
 2. Ensure all necessary libraries (pandas, numpy, seaborn, matplotlib, scikit-learn, xgboost) are installed.
 3. Run the notebook to see the entire process, from data loading and exploration to model evaluation.
+
+## Contributors:
+Shruti Pradeep Kakade - MDS Class of 2025
+Benjamin Adoba Ayida - MDS Class of 2025 
+Nima Thing - MDS Class of 2025
+
